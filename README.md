@@ -9,13 +9,13 @@ Here's a little more about me:
 - 👯 I’m looking to collaborate on open source AI/ML projects
 - 🤔 I’m looking for help with deploying models to production
 - 💬 Ask me about anything related to AI, ML or chatbot development!
-- 📫 How to reach me: Twitter [@skzhengkai](https://twitter.com/skzhengkai)  
+- 📫 How to reach me: Gmail [zhengkaitaken@gmail.com](mailto:zhengkaitaken@gmail.com) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I built a Discord chatbot used by 200,000+ people
+- ⚡ Fun fact: I'm working on a Discord chatbot used by 200,000+ people ([hyunGPT](https://hyungpt.github.io))
 
 ## Skills
 
-- Python :python: 
+- Python :python;
 - Node.js :nodejs:
 - C++ :c++:
 - Discord.js :discord:
@@ -28,4 +28,4 @@ Here's a little more about me:
 - Artificial Intelligence 🤖
 - Machine Learning 💻
 - Python Development 🐍
-- Open Source 🐙
+- Open Source :octocat:
