@@ -1,31 +1,60 @@
-### Hi there 👋
 
-I'm Adam, a freshman student interested in AI/ML. Although I'm mostly self-taught, I have experience building Discord chatbots like **hyunGPT** using Node.js :nodejs: and frameworks like OpenAI :openai: and Natural. I'd like to further my Python :python: skills and learn more about deploying AI models to production. My goal is to apply AI/ML to industries like computer science :computer: and engineering.
+# Hi 👋, I'm skzhengkai
 
-Here's a little more about me:
 
-- 🔭 I’m currently working on building chatbots with Node.js and Discord.js
-- 🌱 I’m currently learning more about Python and AI/ML frameworks like OpenAI
-- 👯 I’m looking to collaborate on open source AI/ML projects
-- 🤔 I’m looking for help with deploying models to production
-- 💬 Ask me about anything related to AI, ML or chatbot development!
-- 📫 How to reach me: Gmail [zhengkaitaken@gmail.com](mailto:zhengkaitaken@gmail.com) 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm working on a Discord chatbot used by 200,000+ people ([hyunGPT](https://hyungpt.github.io))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamzheng1) [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/zhengkaitaken) [![Gmail](https://img.shields.io/badge/gmail-%23EE0000.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhengkaitaken@gmail.com) [![Visits Badge](https://badges.pufler.dev/visits/skzhengkai/skzhengkai?style=for-the-badge)](https://camo.githubusercontent.com/a20dba7cc4548612464419f5890cb52b71a4b22d726f73d8554d8a34ff443ff4/68747470733a2f2f6261646765732e7075666c65722e6465762f7669736974732f57657265776f6c766573303439332f57657265776f6c766573303439333f7374796c653d666f722d7468652d6261646765)
 
-## Skills
+- 📘 I'm currently a Freshman in High School
+- 🌱 I'm currently Lead Developer at [hyunGPT](https://hyunGPT.app/)
+- 💬 Ask me about **NodeJS, React, DiscordJS, Python, Google Ads, and Growth Hacking**
 
-- Python :python;
-- Node.js :nodejs:
-- C++ :c++:
-- Discord.js :discord:
-- OpenAI API :openai:
+## Connect with me:
 
-<img src="hyungpt.png" width="300">
+<p align="left">
+  <a href="https://linkedin.com/in/adamzheng1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/17436415/grudev325"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
+  <a href="https://fb.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/753301377576468671"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+</p>
 
-## Interests
+## Languages and Tools:
 
-- Artificial Intelligence 🤖
-- Machine Learning 💻
-- Python Development 🐍
-- Open Source :octocat:
+### Backend
+
+<p>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flask,fastapi,cpp,php,java" alt="Backend Tools" />
+  </a>
+</p>
+
+### Frontend
+
+<p>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=js,react,nextjs,tailwind,ts,html,css,jquery" alt="Frontend Tools" />
+  </a>
+</p>
+
+### Database
+
+<p>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,graphql" alt="Database Tools" />
+  </a>
+</p>
+
+### Cloud Servers
+
+<p>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,firebase" alt="Cloud Server Tools" />
+  </a>
+</p>
+
+### Tools
+
+<p>
+  <a href="https://skillicons.dev/">
+    <img src="https://skillicons.dev/icons?i=git,github,figma,linux,vscode,postman,replit,npm,discord" alt="Tools" />
+  </a>
+</p>
