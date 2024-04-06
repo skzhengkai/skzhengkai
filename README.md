@@ -6,13 +6,12 @@
 
 - 📘 I'm currently a Freshman in High School
 - 🌱 I'm currently Lead Developer at [hyunGPT](https://hyunGPT.app/)
-- 💬 Ask me about **NodeJS, React, DiscordJS, Python, Google Ads, and Growth Hacking**
+- 💬 Ask me about **NodeJS, React, DiscordJS, Python, Google Ads, Marketing, and Growth Hacking**
 
 ## Connect with me:
 
 <p align="left">
   <a href="https://linkedin.com/in/adamzheng1/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://fb.com/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
   <a href="https://discordapp.com/users/753301377576468671"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
 </p>
 
